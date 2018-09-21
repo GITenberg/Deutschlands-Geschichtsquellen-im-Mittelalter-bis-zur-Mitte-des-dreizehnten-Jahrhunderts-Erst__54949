@@ -1,11 +1,16 @@
 _repo: Deutschlands-Geschichtsquellen-im-Mittelalter-bis-zur-Mitte-des-dreizehnten-Jahrhunderts-Erst__54949
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54949-h/images/coverpage.jpg
 creator:
   author:
     agent_name: Wattenbach, Wilhelm
     gutenberg_agent_id: '48115'
     url: http://www.gutenberg.org/2009/agents/48115
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54949#Deutschlands-Geschichtsquellen-im-Mittelalter-bis-zur-Mitte-des-dreizehnten-Jahrhunderts-Erst_
 gutenberg_issued: '2017-06-20'
 gutenberg_type: Text
 identifiers:
